@@ -23,3 +23,13 @@ Este proyecto es un **panel administrativo web** desarrollado con **React**, **V
 _A continuación se muestra una captura de la interfaz del panel:_
 
 ![Captura del Panel](./captura.png)
+
+## 📦 Cómo ejecutar localmente
+
+1. Se clona el repositorio o descarga el ZIP.
+2. Abre la carpeta `panel-admin` desde la terminal.
+3. Ejecuta los siguientes comandos:
+
+```bash
+npm install
+npm run dev
